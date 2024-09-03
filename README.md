@@ -9,4 +9,4 @@ If you liked it, don't forget to leave a star :)
 ------------
 
 
-This repository wrote by **Mustafa Bilge ERAVCI**
+This repository is written by **Mustafa Bilge ERAVCI**
